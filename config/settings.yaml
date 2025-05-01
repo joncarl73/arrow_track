@@ -1,0 +1,6 @@
+target_type: 3spot
+ring_colors:
+  blue: "#02bce3"
+  red: "#f03d38"
+  gold: "#fcec4f"
+ring_sizes_mm: [80, 64, 48, 32, 16, 8]  # Approximate — refine with real measurements
